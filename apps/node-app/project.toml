@@ -1,0 +1,7 @@
+[project]
+id = "demo-node-app"
+name = "Node.js Firecracker Demo"
+
+[[build.env]]
+name = "BP_NODE_VERSION"
+value = "20"

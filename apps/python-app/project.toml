@@ -1,0 +1,7 @@
+[project]
+id = "demo-python-app"
+name = "Python Firecracker Demo"
+
+[[build.env]]
+name = "BP_CPYTHON_VERSION"
+value = "3.11"

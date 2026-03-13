@@ -1,0 +1,7 @@
+[project]
+id = "demo-go-app"
+name = "Go Firecracker Demo"
+
+[[build.env]]
+name = "BP_GO_BUILD_FLAGS"
+value = "-ldflags='-s -w'"

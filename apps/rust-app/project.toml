@@ -1,0 +1,7 @@
+[project]
+id = "demo-rust-app"
+name = "Rust Firecracker Demo"
+
+[[build.env]]
+name = "BP_CARGO_TINI"
+value = "true"

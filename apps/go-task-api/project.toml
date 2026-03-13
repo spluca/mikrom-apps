@@ -1,0 +1,11 @@
+[project]
+id = "demo-go-task-api"
+name = "Go Task Manager API"
+
+[[build.env]]
+name = "BP_GO_VERSION"
+value = "1.22"
+
+[[build.env]]
+name = "CGO_ENABLED"
+value = "1"

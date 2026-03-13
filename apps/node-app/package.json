@@ -1,0 +1,12 @@
+{
+  "name": "demo-node-app",
+  "version": "1.0.0",
+  "description": "Node.js Fastify Demo for Firecracker",
+  "main": "index.js",
+  "dependencies": {
+    "fastify": "^4.21.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
