@@ -1,5 +1,7 @@
 # mikrom-apps
 
+[![CI/CD](https://github.com/spluca/mikrom-apps/actions/workflows/ci.yml/badge.svg)](https://github.com/spluca/mikrom-apps/actions/workflows/ci.yml)
+
 A curated catalog of applications ready to be packaged with [Cloud Native Buildpacks](https://buildpacks.io/) and deployed on [Firecracker](https://firecracker-microvm.github.io/) microVMs. This repository is the primary testing ground for applications running on the **Mikrom** environment.
 
 > **What is Mikrom?** Mikrom is an orchestration layer for Firecracker microVMs. These apps are designed to demonstrate real-world workloads running inside isolated, lightweight virtual machines — with fast boot times and minimal memory overhead.
